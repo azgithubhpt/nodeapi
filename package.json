@@ -1,0 +1,16 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "A node api",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Hitendra Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
